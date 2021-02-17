@@ -25,6 +25,7 @@ Run `node index.js`, then the application will you ask you to input each member'
 ## Preview
 
 [![Video Preview](./assets/preview.jpg)](https://www.youtube.com/watch?v=-gCxfsQYwDA)
+![preview2](./assets/preview2.jpg)
 
 ## Tests
 
