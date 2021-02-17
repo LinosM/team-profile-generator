@@ -1,7 +1,5 @@
 # Team Profile Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Description
     
 Team Profile Generator is a CLI application that takes in information about employees on a software engineering team and generates an HTML page that displays their information
