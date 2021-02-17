@@ -1,6 +1,9 @@
+// JS file that generates the contents of the HTML file
+
 // Initializes global variable to store each employee html card
 var teamHtml = '';
 
+// Adds employee information to a card and adds it to teamHtml variable
 function addTeamHtml(x) {
     
     var roleLine = '';      // Office number/Github/School info depending on role
