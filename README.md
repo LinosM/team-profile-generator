@@ -31,6 +31,15 @@ Run `node index.js`, then the application will you ask you to input each member'
 
 Running 'npm run test' will test each employee class
 
+<a name="tech">
+	
+# Technology Used
+	
+- JavaScript
+- NodeJS
+- Inquirer
+- Jest
+
 ## Questions
 
 If you have any questions, you can reach me through my github or email below
